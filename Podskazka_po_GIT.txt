@@ -1,0 +1,9 @@
+git add .
+git commit -m "Описание изменений"
+git push
+
+если буду делать ветку
+git checkout -b <имя_ветки>
+git add .
+git commit -m "Добавил новую функциональность"
+git push -u origin <имя_ветки>
