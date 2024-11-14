@@ -1,5 +1,5 @@
 git add .
-git commit -m "Описание изменений"
+git commit -m "Добавила описание для таблицы корреляции"
 git push
 
 если буду делать ветку
@@ -7,3 +7,5 @@ git checkout -b <имя_ветки>
 git add .
 git commit -m "Добавил новую функциональность"
 git push -u origin <имя_ветки>
+
+git add . && git commit -m "Добавить папку Лекции в игнор файл" && git push
